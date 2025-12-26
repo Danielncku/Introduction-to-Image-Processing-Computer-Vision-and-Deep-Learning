@@ -1,0 +1,3 @@
+
+main_mpi:66913 terminated with signal 11 at PC=5ae87e66f3f8 SP=7ffe2b730720.  Backtrace:
+./main_mpi(+0x13f8)[0x5ae87e66f3f8]

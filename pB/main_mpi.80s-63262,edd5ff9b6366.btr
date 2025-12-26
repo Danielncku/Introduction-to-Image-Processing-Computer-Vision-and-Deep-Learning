@@ -1,0 +1,6 @@
+
+main_mpi:63262 terminated with signal 11 at PC=56117e98c406 SP=7fff6a0927f0.  Backtrace:
+./main_mpi(+0x1406)[0x56117e98c406]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7ef567a5ed90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7ef567a5ee40]
+./main_mpi(+0x1b05)[0x56117e98cb05]

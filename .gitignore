@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+torch_env/
+venv/
+
+# Dataset
+data/
+
+# Model weights (太大)
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db

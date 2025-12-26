@@ -1,0 +1,35 @@
+
+main_mpi:66963 terminated with signal 11 at PC=590db84903f8 SP=7ffffa4721c0.  Backtrace:
+./main_mpi(+0x13f8)[0x590db84903f8]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x74a06bdb8d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x74a06bdb8e40]
+./main_mpi(+0x1b85)[0x590db8490b85]
+
+main_mpi:66964 terminated with signal 11 at PC=5ee5d84a93f8 SP=7fff82a74370.  Backtrace:
+./main_mpi(+0x13f8)[0x5ee5d84a93f8]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7788b1daad90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7788b1daae40]
+./main_mpi(+0x1b85)[0x5ee5d84a9b85]
+
+main_mpi:66965 terminated with signal 11 at PC=5ab7231863f8 SP=7ffd14e7b6f0.  Backtrace:
+./main_mpi(+0x13f8)[0x5ab7231863f8]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7264eff00d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7264eff00e40]
+./main_mpi(+0x1b85)[0x5ab723186b85]
+
+main_mpi:66966 terminated with signal 11 at PC=5e06c44643f8 SP=7ffc0573d3f0.  Backtrace:
+./main_mpi(+0x13f8)[0x5e06c44643f8]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x71be1b435d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x71be1b435e40]
+./main_mpi(+0x1b85)[0x5e06c4464b85]
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 66964 RUNNING AT edd5ff9b6366
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Killed (signal 9)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions
