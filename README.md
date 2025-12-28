@@ -1,5 +1,8 @@
 # HW2 - Deep Learning
 
+## venv
+.\torch_env\Scripts\Activate.ps1
+
 ## Part A
 - MNIST classification using LeNet-5
 - Activation function comparison (ReLU vs Sigmoid)
